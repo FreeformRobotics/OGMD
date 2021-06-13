@@ -2,7 +2,7 @@
 
 To address grid map classification problem, we construct a dataset containing **6916** (the labels including 3210 normal and 3706 abnormal )grid maps through an **indoor robot vacuum cleaner**. These grid maps are created with an initial size of **50m×50m**. To further increase the number of training examples, we applied random rotation and offset to cropped areas of **34m×34m** used as training examples. To the best of our knowledge, **OGMCD** is a **large-scale benchmark specifically for indoor grid map classification.**
 
-<img src="./Screenshots/1.png" height="600" width="500"/>
+
 
 ## Getting Started
 

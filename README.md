@@ -1,3 +1,7 @@
+Related Publications:
+Fuqin Deng, Hua Feng, Mingjian Liang, Qi Feng, Ningbo Yi, Yong Yang, Yuan Gao, Junfeng Chen, and Tin Lun Lam. "Abnormal Occupancy Grid Map Recognition using Attention Network." International Conference on Robotics and Automation (ICRA), 2022.
+paper link: https://arxiv.org/abs/2110.09047
+
 # OGMD
 
 To address grid map classification problem, we construct a dataset containing **6916** (the labels including 3210 normal and 3706 abnormal )grid maps through an **indoor robot vacuum cleaner**. These grid maps are created with an initial size of **50m×50m**. To further increase the number of training examples, we applied random rotation and offset to cropped areas of **34m×34m** used as training examples. To the best of our knowledge, **OGMD** is a **large-scale benchmark specifically for indoor grid map classification.**
